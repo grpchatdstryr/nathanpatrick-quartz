@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Nathan Patrick
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -215,8 +215,11 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        LinkedIn: https://www.linkedin.com/in/about-nathan-patrick/
+        GitHub: https://github.com/grpchatdstryr
+        Linktree: https://linktr.ee/nathanpatrick
+        Trumpet Central: https://trumpetcentral.org/
+        Status: https://status.nathanpatrick.net/
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer

@@ -1,0 +1,31 @@
+---
+title: Photography
+description: My experience in photography
+tags: [photography, creative]
+---
+
+
+I love photography and have been been interested in it since high school. Can find some of my photography on [Instagram](https://www.instagram.com/nathanp_media/). I specifically like taking pictures of nature, buildings, cats, and more. Currently shoot with my S22 Ultra phone using the built in Expert RAW App. 
+
+### Pictures Portfolio
+Here are some of my best photos I have taken...
+
+![Cave](cave.jpg)
+
+![Mirror Sunset](mirror-sunset.jpg)
+
+![Beach Sunset](beach-sunset-house.jpg)
+
+![Church](church.jpg)
+
+
+### Cat Pictures
+I love cats, and have taken more pictures than I would care to admit...
+
+![Cat](green-cat.jpg)
+
+![Cat](cat-yellow.jpg)
+
+---
+
+**See also:** [[creative/drones/index|Drones]] · [[creative/videography|Videography]] · [[creative/graphic-design/index|Graphic Design]] · [[creative/my-gear|My Gear]]
