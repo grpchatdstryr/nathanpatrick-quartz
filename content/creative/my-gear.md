@@ -24,5 +24,5 @@ All the equipment I use relating to the creative arts.
 
 ---
 
-**Used in:** [[creative/photography/index|Photography]] · [[creative/drones/index|Drones]] · [[creative/videography|Videography]] · [[creative/graphic-design/index|Graphic Design]] · [[creative/audio|Audio]] · [[creative/production|Production]]
+**Used in:** [[creative/photography/index|Photography]] · [[creative/drones/index|Drones]] · [[videography|Videography]] · [[creative/graphic-design/index|Graphic Design]] · [[audio|Audio]] · [[production|Production]]
 

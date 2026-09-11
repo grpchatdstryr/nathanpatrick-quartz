@@ -7,13 +7,13 @@ tags: [creative, photography, videography]
 # Creative
 
 - [[creative/photography/index|Photography]]
-- [[creative/videography|Videography]]
+- [[videography|Videography]]
 - [[creative/drones/index|Drones]]
 - [[creative/graphic-design/index|Graphic Design]]
-- [[creative/audio|Audio]]
-- [[creative/production|Production]]
-- [[creative/my-gear|My Gear]]
+- [[audio|Audio]]
+- [[production|Production]]
+- [[my-gear|My Gear]]
 
 ---
 
-**Back:** [[index|Home]]
+**Back:** [[creative/index|Home]]

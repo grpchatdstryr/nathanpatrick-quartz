@@ -14,10 +14,10 @@ Minor - **Information Security**
 Summa Cum Laude
 
 ### Subjects of Knowledge
-[[proficiencies/information-technology|Information Technology]] · [[proficiencies/cybersecurity|Cybersecurity]] · [[proficiencies/networking|Networking]] · [[proficiencies/microsoft-products|Microsoft Products]] · [[proficiencies/software-development|Software Development]]
+[[information-technology|Information Technology]] · [[cybersecurity|Cybersecurity]] · [[networking|Networking]] · [[microsoft-products|Microsoft Products]] · [[software-development|Software Development]]
 
 ### Interests and Hobbies
-[[creative/photography/index|Photography]] · [[creative/videography|Videography]] · [[creative/drones/index|Drones]] · [[creative/graphic-design/index|Graphic Design]] · [[music/music|Music]] · [[music/trumpet|Trumpet]]
+[[creative/photography/index|Photography]] · [[videography|Videography]] · [[creative/drones/index|Drones]] · [[creative/graphic-design/index|Graphic Design]] · [[music|Music]] · [[trumpet|Trumpet]]
 
 ### Explore
-[[about|About Me]] · [[resume|Resume]] · [[experience/education|Education]] · [[experience/certifications|Certifications]] · [[experience/job-experience|Job Experience]] · [[experience/personal-projects|Projects]] · [[blog/homelab-documentation|Blog]]
+[[about|About Me]] · [[resume|Resume]] · [[education|Education]] · [[certifications|Certifications]] · [[job-experience|Job Experience]] · [[personal-projects|Projects]] · [[homelab-documentation|Blog]]

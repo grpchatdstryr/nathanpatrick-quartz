@@ -14,4 +14,4 @@ https://trumpetcentral.org
 
 ---
 
-**See also:** [[music/trumpet|Trumpet]] · [[music/music|Music Experience]]
+**See also:** [[trumpet|Trumpet]] · [[music|Music Experience]]

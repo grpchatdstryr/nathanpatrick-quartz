@@ -6,9 +6,9 @@ tags: [scouting, leadership]
 
 # Scouting
 
-- [[activities/scouting/boy-scouts|Boy Scouts]]
-- [[activities/scouting/eagle-scout-project|Eagle Scout Project]]
+- [[boy-scouts|Boy Scouts]]
+- [[eagle-scout-project|Eagle Scout Project]]
 
 ---
 
-**Back:** [[activities/index|Activities]] · [[experience/volunteer|Volunteer Work]]
+**Back:** [[activities/index|Activities]] · [[volunteer|Volunteer Work]]

@@ -570,4 +570,4 @@ Enjoy your new setup! 🎉🎉🎉
 
 ---
 
-**Related:** [[proficiencies/information-technology|Information Technology]] · [[proficiencies/networking|Networking]] · [[experience/personal-projects|Personal Projects]]
+**Related:** [[information-technology|Information Technology]] · [[networking|Networking]] · [[personal-projects|Personal Projects]]

@@ -11,4 +11,4 @@ Served at my home church for a period working in the tech booth.
 
 ---
 
-**See also:** [[creative/audio|Audio]] · [[creative/videography|Videography]] · [[creative/my-gear|My Gear]] · [[experience/volunteer|Volunteer Work]]
+**See also:** [[audio|Audio]] · [[videography|Videography]] · [[my-gear|My Gear]] · [[volunteer|Volunteer Work]]

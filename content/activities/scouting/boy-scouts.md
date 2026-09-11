@@ -16,5 +16,5 @@ Served as Patrol Leader, leading a group of scouts and ensuring patrol operation
 
 ---
 
-**See also:** [[activities/scouting/eagle-scout-project|Eagle Scout Project]] · [[experience/volunteer|Volunteer Work]]
+**See also:** [[eagle-scout-project|Eagle Scout Project]] · [[volunteer|Volunteer Work]]
 

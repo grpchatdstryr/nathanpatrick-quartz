@@ -6,12 +6,12 @@ tags: [technology, professional]
 
 # Proficiencies
 
-- [[proficiencies/information-technology|Information Technology]]
-- [[proficiencies/cybersecurity|Cybersecurity]]
-- [[proficiencies/networking|Networking]]
-- [[proficiencies/software-development|Software Development]]
-- [[proficiencies/microsoft-products|Microsoft Products]]
+- [[information-technology|Information Technology]]
+- [[cybersecurity|Cybersecurity]]
+- [[networking|Networking]]
+- [[software-development|Software Development]]
+- [[microsoft-products|Microsoft Products]]
 
 ---
 
-**Back:** [[index|Home]] · [[resume|Resume]]
+**Back:** [[proficiencies/index|Home]] · [[resume|Resume]]

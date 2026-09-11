@@ -25,4 +25,4 @@ I created this music video in High School because we had too much free time and 
 
 ---
 
-**See also:** [[creative/photography/index|Photography]] · [[creative/drones/index|Drones]] · [[creative/audio|Audio]] · [[creative/my-gear|My Gear]]
+**See also:** [[creative/photography/index|Photography]] · [[creative/drones/index|Drones]] · [[audio|Audio]] · [[my-gear|My Gear]]

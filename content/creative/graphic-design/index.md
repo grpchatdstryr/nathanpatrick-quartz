@@ -32,5 +32,5 @@ Never actually followed through with this one, but was a fun idea. Got it from s
 
 ---
 
-**See also:** [[creative/photography/index|Photography]] · [[creative/my-gear|My Gear]]
+**See also:** [[creative/photography/index|Photography]] · [[my-gear|My Gear]]
 

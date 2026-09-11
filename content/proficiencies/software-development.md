@@ -17,4 +17,4 @@ Experience using Docker for containerization and lightweight development environ
 
 ---
 
-**Related:** [[experience/personal-projects|Personal Projects]] · [[blog/link-preview-remover|Link Preview Remover]] · [[proficiencies/information-technology|Information Technology]]
+**Related:** [[personal-projects|Personal Projects]] · [[link-preview-remover|Link Preview Remover]] · [[information-technology|Information Technology]]

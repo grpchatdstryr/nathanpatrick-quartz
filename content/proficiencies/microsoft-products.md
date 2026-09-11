@@ -31,4 +31,4 @@ Word, Excel, PowerPoint, Access, and other Office apps. Used for school and work
 
 ---
 
-**Related:** [[experience/certifications|Certifications]] · [[experience/job-experience|Job Experience]] · [[proficiencies/cybersecurity|Cybersecurity]]
+**Related:** [[certifications|Certifications]] · [[job-experience|Job Experience]] · [[cybersecurity|Cybersecurity]]

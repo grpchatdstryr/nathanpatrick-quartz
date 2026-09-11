@@ -45,4 +45,4 @@ If you want even more functionality, you can get Nova Prime, which in my opinion
 
 ---
 
-**Related:** [[proficiencies/information-technology|Information Technology]]
+**Related:** [[information-technology|Information Technology]]

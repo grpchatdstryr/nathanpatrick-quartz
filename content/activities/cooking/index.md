@@ -6,9 +6,9 @@ tags: [cooking, hobbies]
 
 # Cooking
 
-- [[activities/cooking/eggs|Eggs]]
-- [[activities/cooking/rice-meal|Rice Meal]]
-- [[activities/cooking/steak|Steak]]
+- [[eggs|Eggs]]
+- [[rice-meal|Rice Meal]]
+- [[steak|Steak]]
 
 ---
 

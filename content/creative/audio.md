@@ -11,4 +11,4 @@ Since High School, have recorded and messed with a Mic for music and trumpet. Pu
 
 ---
 
-**See also:** [[creative/production|Production]] · [[creative/my-gear|My Gear]] · [[music/music|Music]]
+**See also:** [[production|Production]] · [[my-gear|My Gear]] · [[music|Music]]

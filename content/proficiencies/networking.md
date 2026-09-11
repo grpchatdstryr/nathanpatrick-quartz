@@ -14,4 +14,4 @@ Built and maintained a homelab environment, including configuring a router, sett
 
 ---
 
-**Related:** [[experience/certifications|Certifications]] · [[proficiencies/cybersecurity|Cybersecurity]] · [[proficiencies/information-technology|Information Technology]]
+**Related:** [[certifications|Certifications]] · [[cybersecurity|Cybersecurity]] · [[information-technology|Information Technology]]

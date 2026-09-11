@@ -23,4 +23,4 @@ Also attended drone club where we learned about the basics of drones, how to fly
 
 ### Media
 
-Check out my other photography/videography work: [[creative/photography/index|Photography]] · [[creative/videography|Videography]] · [[creative/my-gear|My Gear]] · [[experience/certifications|Remote Pilot Cert]]
+Check out my other photography/videography work: [[creative/photography/index|Photography]] · [[videography|Videography]] · [[my-gear|My Gear]] · [[certifications|Remote Pilot Cert]]

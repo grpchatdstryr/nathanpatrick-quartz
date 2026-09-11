@@ -72,4 +72,4 @@ Instead of having to click the Maximize/minimize square, just swipe up or down 
 
 ---
 
-**Related:** [[proficiencies/information-technology|Information Technology]] · [[proficiencies/microsoft-products|Microsoft Products]]
+**Related:** [[information-technology|Information Technology]] · [[microsoft-products|Microsoft Products]]

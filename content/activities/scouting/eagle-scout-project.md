@@ -51,4 +51,4 @@ Led community, scouts, and others to accomplish something great. First priority 
 
 ---
 
-**See also:** [[activities/scouting/boy-scouts|Boy Scouts]] · [[resume|Resume]] · [[experience/volunteer|Volunteer Work]]
+**See also:** [[boy-scouts|Boy Scouts]] · [[resume|Resume]] · [[volunteer|Volunteer Work]]

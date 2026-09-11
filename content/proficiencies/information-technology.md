@@ -42,4 +42,4 @@ Configured and managed two servers running as a cluster using VMware ESXi and vC
 
 ---
 
-**Related:** [[blog/homelab-documentation|Homelab Documentation]] · [[blog/linux-setup|Linux Setup Guide]] · [[experience/personal-projects|Personal Projects]] · [[proficiencies/networking|Networking]] · [[proficiencies/cybersecurity|Cybersecurity]]
+**Related:** [[homelab-documentation|Homelab Documentation]] · [[linux-setup|Linux Setup Guide]] · [[personal-projects|Personal Projects]] · [[networking|Networking]] · [[cybersecurity|Cybersecurity]]

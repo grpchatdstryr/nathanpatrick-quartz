@@ -155,4 +155,4 @@ I recently set up a proxy using Ubuntu Server because I wanted to learn more abo
 
 ---
 
-**Related:** [[proficiencies/information-technology|Information Technology]] · [[proficiencies/networking|Networking]] · [[experience/personal-projects|Personal Projects]]
+**Related:** [[information-technology|Information Technology]] · [[networking|Networking]] · [[personal-projects|Personal Projects]]

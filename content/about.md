@@ -13,4 +13,4 @@ Just a way to consolidate all my experience and activites. Hope you enjoy!
 
 ---
 
-**More:** [[resume|Resume]] · [[experience/job-experience|Job Experience]] · [[experience/certifications|Certifications]] · [[proficiencies/cybersecurity|Cybersecurity]] · [[proficiencies/information-technology|Information Technology]]
+**More:** [[resume|Resume]] · [[job-experience|Job Experience]] · [[certifications|Certifications]] · [[cybersecurity|Cybersecurity]] · [[information-technology|Information Technology]]

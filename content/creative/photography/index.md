@@ -28,4 +28,4 @@ I love cats, and have taken more pictures than I would care to admit...
 
 ---
 
-**See also:** [[creative/drones/index|Drones]] · [[creative/videography|Videography]] · [[creative/graphic-design/index|Graphic Design]] · [[creative/my-gear|My Gear]]
+**See also:** [[creative/drones/index|Drones]] · [[videography|Videography]] · [[creative/graphic-design/index|Graphic Design]] · [[my-gear|My Gear]]

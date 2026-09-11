@@ -47,4 +47,4 @@ Issued Aug 2025
 
 ---
 
-**Related:** [[proficiencies/cybersecurity|Cybersecurity]] · [[proficiencies/networking|Networking]] · [[proficiencies/microsoft-products|Microsoft Products]] · [[proficiencies/information-technology|Information Technology]] · [[resume|Resume]]
+**Related:** [[cybersecurity|Cybersecurity]] · [[networking|Networking]] · [[microsoft-products|Microsoft Products]] · [[information-technology|Information Technology]] · [[resume|Resume]]

@@ -26,4 +26,4 @@ A mix of formal classes, self-directed training, and hands-on experience in cybe
 
 ---
 
-**Related:** [[experience/certifications|Certifications]] · [[experience/job-experience|Job Experience]] · [[experience/college-extracurricular|College Activities]] · [[proficiencies/networking|Networking]]
+**Related:** [[certifications|Certifications]] · [[job-experience|Job Experience]] · [[college-extracurricular|College Activities]] · [[networking|Networking]]

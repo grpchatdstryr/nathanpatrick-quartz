@@ -103,4 +103,4 @@ Congrats 🎉🎉🎉
 
 ---
 
-**Related:** [[proficiencies/software-development|Software Development]] · [[experience/personal-projects|Personal Projects]]
+**Related:** [[software-development|Software Development]] · [[personal-projects|Personal Projects]]

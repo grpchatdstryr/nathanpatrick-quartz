@@ -34,4 +34,4 @@ High level trumpet ensemble auditioning for National Trumpet Competition.
 
 ---
 
-**See also:** [[music/trumpet|Trumpet]] · [[music/trumpet-central/index|Trumpet Central]] · [[creative/audio|Audio]]
+**See also:** [[trumpet|Trumpet]] · [[music/trumpet-central/index|Trumpet Central]] · [[audio|Audio]]

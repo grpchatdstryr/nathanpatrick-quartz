@@ -15,7 +15,7 @@ Lynchburg, Virginia | Portfolio: [www.linktr.ee/nathanpatrick](http://www.linktr
 GPA: 3.85, *Summa Cum Laude*  
 *Dean’s List: Fall 2021 - Spring 2025*
 
-*Full details → [[experience/education|Education]]*
+*Full details → [[education|Education]]*
 
 ---
 
@@ -23,7 +23,7 @@ GPA: 3.85, *Summa Cum Laude*
 
 [CompTIA Security+](https://www.credly.com/badges/a0286461-bc98-410d-a91f-07e6438a2a45/public_url?trk=public_profile_see-credential), [CompTIA Network+](https://www.credly.com/badges/5639e4be-c6e4-462d-b8b4-45fa4171c75e/public_url?trk=public_profile_see-credential), [Microsoft Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/NatePatrick-2156/631453BDF4CD9F8B?sharingId=CCD55D8CB947BFA6&trk=public_profile_see-credential), [Microsoft 365 Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/NatePatrick-2156/FB4AB0CCA4A1D29F?sharingId=CCD55D8CB947BFA6&trk=public_profile_see-credential), [AWS Certified Cloud Practitioner](https://www.credly.com/badges/8d5dc4e4-feef-452a-8c32-a69b5ea414a6/public_url?trk=public_profile_see-credential), [Microsoft Certified: Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-us/users/nathanpatrick/credentials/d3b5fd823ec3ddb0?ref=https%3A%2F%2Fwww.linkedin.com%2F), Remote Pilot
 
-*Full details → [[experience/certifications|Certifications]]*
+*Full details → [[certifications|Certifications]]*
 
 ---
 
@@ -53,7 +53,7 @@ GPA: 3.85, *Summa Cum Laude*
 - Investigated IoT connectivity with various databases.
 - Gained experience with Microsoft Power Platform (Power BI and Power Apps) and Microsoft Azure Portal.
 
-*Full details → [[experience/job-experience|Job Experience]]*
+*Full details → [[job-experience|Job Experience]]*
 
 ---
 
@@ -76,7 +76,7 @@ GPA: 3.85, *Summa Cum Laude*
 
 - Configured and running two servers as a cluster using VMWare Suite (ESXI and vCenter), hosting Virtual Machines of various services. Continuously learning, implementing, and documenting new features. Writeup on GitHub. Migrated to Proxmox.
 
-*Full details → [[experience/personal-projects|Personal Projects]] · [[proficiencies/cybersecurity|Cybersecurity]] · [[proficiencies/information-technology|Information Technology]]*
+*Full details → [[personal-projects|Personal Projects]] · [[cybersecurity|Cybersecurity]] · [[information-technology|Information Technology]]*
 
 ---
 
@@ -85,7 +85,7 @@ GPA: 3.85, *Summa Cum Laude*
 **Eagle Scout**, Boy *Scouts of America Troop 1865* - January 2021  
 **Trumpet Squad Leader**, *James W. Robinson Secondary School Marching Band* - March – May 2021
 
-*Full details → [[activities/scouting/eagle-scout-project|Eagle Scout Project]]*
+*Full details → [[eagle-scout-project|Eagle Scout Project]]*
 
 ---
 
@@ -96,4 +96,4 @@ GPA: 3.85, *Summa Cum Laude*
 **Sports Broadcast Camera Operator** - Spring 2022 - Spring 2023  
 **SGA Delegate** - Fall 2021 - Spring 2022
 
-*Full details → [[experience/volunteer|Volunteer Work]]*
+*Full details → [[volunteer|Volunteer Work]]*

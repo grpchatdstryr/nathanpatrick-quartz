@@ -6,13 +6,13 @@ tags: [professional, education]
 
 # Experience
 
-- [[experience/education|Education]]
-- [[experience/certifications|Certifications]]
-- [[experience/job-experience|Job Experience]]
-- [[experience/personal-projects|Personal Projects]]
-- [[experience/college-extracurricular|College Activities]]
-- [[experience/volunteer|Volunteer Work]]
+- [[education|Education]]
+- [[certifications|Certifications]]
+- [[job-experience|Job Experience]]
+- [[personal-projects|Personal Projects]]
+- [[college-extracurricular|College Activities]]
+- [[volunteer|Volunteer Work]]
 
 ---
 
-**Back:** [[index|Home]] · [[resume|Resume]]
+**Back:** [[experience/index|Home]] · [[resume|Resume]]
