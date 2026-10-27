@@ -5,7 +5,7 @@ tags: [personal]
 
 Recent college graduate with a degree in Information Technology and a minor in Information Security. Passion for technology, cybersecurity, and photography/videography. Love the outdoors and hiking.
 
-![Picture of me at sharptop](/img/banner-about.jpg)
+![Picture of me at sharptop](https://nathanpatrick.net/assets/images/banner-about-db22ad7e94cb76b479980b44370d4e1a.jpg)
 
 
 ## This Website

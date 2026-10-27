@@ -12,8 +12,6 @@ const explorerOptions: Partial<ExternalPlugin.ExplorerOptions> = {
       "proficiencies",
       "activities",
       "blog",
-      "about",
-      "resume",
 
       // Pages within Experience
       "job experience",
@@ -26,6 +24,16 @@ const explorerOptions: Partial<ExternalPlugin.ExplorerOptions> = {
 
     const aName = a.displayName ?? ""
     const bName = b.displayName ?? ""
+    const bottomOrder = ["about me", "resume"]
+    const aBottomIndex = bottomOrder.indexOf(aName.toLowerCase())
+    const bBottomIndex = bottomOrder.indexOf(bName.toLowerCase())
+
+    if (aBottomIndex !== -1 || bBottomIndex !== -1) {
+      if (aBottomIndex === -1) return -1
+      if (bBottomIndex === -1) return 1
+      return aBottomIndex - bBottomIndex
+    }
+
     const aIndex = explorerOrder.indexOf(aName.toLowerCase())
     const bIndex = explorerOrder.indexOf(bName.toLowerCase())
 
